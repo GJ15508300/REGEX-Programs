@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/GJ15508300/REGEX-Programs/issues"
   },
-  "homepage": "https://github.com/GJ15508300/REGEX-Programs#readme"
+  "homepage": "https://github.com/GJ15508300/REGEX-Programs#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
